@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # Create a new C# console application project in the 2-new_project folder
 dotnet new console -n 2-new_project
