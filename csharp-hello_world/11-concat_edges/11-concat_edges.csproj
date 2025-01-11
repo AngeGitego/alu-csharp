@@ -2,8 +2,8 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp2.1</TargetFramework>
-    <RootNamespace>_1_new_project</RootNamespace>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>_11_concat_edges</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
