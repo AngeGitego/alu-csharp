@@ -4,16 +4,22 @@ class Program
 {
     static void Main(string[] args)
     {
+        string result = "";
+
+        // Using a single loop to accumulate all the numbers in the result string
         for (int i = 0; i <= 99; i++)
         {
-            // Print number with leading zero if necessary
-            Console.Write("{0:D2}", i);
+            result += string.Format("{0:D2}", i);
 
-            // If it's not the last number, print a comma and a space
+            // If it's not the last number, add a comma and space
             if (i != 99)
-                Console.Write(", ");
+            {
+                result += ", ";
+            }
         }
-        // Print a new line after the last number
-        Console.WriteLine();
+
+        // Use Console.Write only twice
+        Console.Write(result);
+        Console.WriteLine();  // New line after all numbers are printed
     }
 }
