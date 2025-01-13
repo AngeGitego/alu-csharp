@@ -4,17 +4,17 @@ class Program
 {
     static void Main(string[] args)
     {
-        string result = "";  // Initialize an empty string to accumulate the output
-
-        // Loop to print numbers from 0 to 99
         for (int i = 0; i < 100; i++)
         {
-            result += $"{i:D2}";  // Add the current number formatted as two digits
+            // Print the number with two digits
+            Console.Write("{0:D2}", i);
 
-            if (i < 99) // If not the last number, add a comma and space
-                result += ", ";
+            // Print a comma and space unless it's the last number (99)
+            if (i < 99) 
+                Console.Write(", ");
         }
 
-        Console.WriteLine(result);  // Output the accumulated result at once
+        // Print a newline at the end after all numbers are printed
+        Console.WriteLine();
     }
 }
