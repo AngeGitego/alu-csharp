@@ -1,27 +1,27 @@
-﻿using System;
+using System;
 
 class Program
 {
     static void Main(string[] args)
     {
-        Random rndm = new Random();
-        int number = rndm.Next(-10000, 10000);
+        Random random = new Random();
+        int number = random.Next(-10000, 10000);
 
-        int lastDigit = Math.Abs(number % 10); // Calculate the last digit (absolute value to handle negatives)
+        int lastDigit = number % 10; // Get the last digit of the number
 
-        Console.Write($"The last digit of {number} is {lastDigit} and ");
+        Console.Write($"The last digit of {number} is {lastDigit} ");
 
         if (lastDigit > 5)
         {
-            Console.WriteLine("is greater than 5");
+            Console.WriteLine("and is greater than 5");
         }
         else if (lastDigit == 0)
         {
-            Console.WriteLine("is 0");
+            Console.WriteLine("and is 0");
         }
-        else
+        else // lastDigit < 6 and not 0
         {
-            Console.WriteLine("is less than 6 and not 0");
+            Console.WriteLine("and is less than 6 and not 0");
         }
     }
 }
