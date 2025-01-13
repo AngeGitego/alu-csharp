@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 class Program
 {
@@ -6,7 +6,7 @@ class Program
     {
         for (int i = 0; i <= 98; i++)
         {
-            Console.WriteLine($"{i} = 0x{i:X}");
+            Console.WriteLine($"{i} = 0x{i:x}");
         }
     }
 }
