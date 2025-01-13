@@ -4,22 +4,14 @@ class Program
 {
     static void Main(string[] args)
     {
-        string result = "";
-
-        // Using a single loop to accumulate all the numbers in the result string
-        for (int i = 0; i <= 99; i++)
+        // Loop to print all numbers from 0 to 99 in the desired format
+        for (int i = 0; i < 100; i++)
         {
-            result += string.Format("{0:D2}", i);
-
-            // If it's not the last number, add a comma and space
-            if (i != 99)
-            {
-                result += ", ";
-            }
+            // Print the number, ensuring two digits using "D2" format
+            if (i < 99)
+                Console.Write($"{i:D2}, ");
+            else
+                Console.WriteLine($"{i:D2}");  // Print the last number with a new line
         }
-
-        // Use Console.Write only twice
-        Console.Write(result);
-        Console.WriteLine();  // New line after all numbers are printed
     }
 }
