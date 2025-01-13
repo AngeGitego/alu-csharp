@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 class Program
 {
@@ -6,15 +6,14 @@ class Program
     {
         for (int i = 0; i <= 99; i++)
         {
-            // Print the current number, formatted to always show two digits
-            Console.Write($"{i:D2}");
-            
-            // Check if it's the last number (99) to avoid trailing comma
+            // Print number with leading zero if necessary
+            Console.Write("{0:D2}", i);
+
+            // If it's not the last number, print a comma and a space
             if (i != 99)
-            {
                 Console.Write(", ");
-            }
         }
-        Console.WriteLine(); // Print a newline after all numbers
+        // Print a new line after the last number
+        Console.WriteLine();
     }
 }
