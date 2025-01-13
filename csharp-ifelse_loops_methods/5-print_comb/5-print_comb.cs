@@ -4,17 +4,13 @@ class Program
 {
     static void Main(string[] args)
     {
+        // Loop to print all numbers from 0 to 99 in the desired format
         for (int i = 0; i < 100; i++)
         {
-            // Print the number with two digits
-            Console.Write("{0:D2}", i);
-
-            // Print a comma and space unless it's the last number (99)
-            if (i < 99) 
-                Console.Write(", ");
+            if (i < 99)
+                Console.Write($"{i:D2}, ");
+            else
+                Console.WriteLine($"{i:D2}"); // Print the last number with a newline
         }
-
-        // Print a newline at the end after all numbers are printed
-        Console.WriteLine();
     }
 }
