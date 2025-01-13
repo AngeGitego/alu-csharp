@@ -1,8 +1,8 @@
 ﻿using System;
 
-class Program
+class FizzBuzz
 {
-    static void Main(string[] args)
+    public static void Main()
     {
         for (int i = 1; i <= 100; i++)
         {
@@ -23,15 +23,14 @@ class Program
                 Console.Write(i);
             }
 
-            // Add a space after each element, no trailing space at the end
+            // Add a space after each number except the last one
             if (i < 100)
             {
                 Console.Write(" ");
             }
-            else
-            {
-                Console.WriteLine();
-            }
         }
+
+        // End with a newline
+        Console.WriteLine();
     }
 }
