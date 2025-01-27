@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        char[] letters = { 'a', 'A', 'Q', 'h', '9', 'B', 'g' };
+        char[] letters = { 'a', 'A', 'Q', 'h', '9', 'B', 'g'};
         int i;
 
         for (i = 0; i < letters.Length; i++)
