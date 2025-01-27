@@ -1,27 +1,22 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 
 public class Dictionary
 {
     public static string BestScore(Dictionary<string, int> myList)
     {
-        // Check if the dictionary is empty
         if (myList == null || myList.Count == 0)
-        {
             return "None";
-        }
 
-        // Initialize variables to track the key with the highest value
         string bestKey = null;
-        int highestScore = int.MinValue;
+        int highestValue = int.MinValue;
 
-        // Iterate through the dictionary
-        foreach (var item in myList)
+        foreach (KeyValuePair<string, int> entry in myList)
         {
-            if (item.Value > highestScore)
+            if (entry.Value > highestValue)
             {
-                highestScore = item.Value;
-                bestKey = item.Key;
+                highestValue = entry.Value;
+                bestKey = entry.Key;
             }
         }
 
