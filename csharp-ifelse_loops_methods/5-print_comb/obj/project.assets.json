@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\landi\\.nuget\\packages\\": {}
+    "C:\\Users\\pc\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\landi\\c-sharp\\csharp-ifelse_loops_methods\\5-print_comb\\5-print_comb.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\alu-csharp\\csharp-ifelse_loops_methods\\5-print_comb\\5-print_comb.csproj",
       "projectName": "5-print_comb",
-      "projectPath": "C:\\Users\\landi\\c-sharp\\csharp-ifelse_loops_methods\\5-print_comb\\5-print_comb.csproj",
-      "packagesPath": "C:\\Users\\landi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\landi\\c-sharp\\csharp-ifelse_loops_methods\\5-print_comb\\obj\\",
+      "projectPath": "C:\\Users\\pc\\alu-csharp\\csharp-ifelse_loops_methods\\5-print_comb\\5-print_comb.csproj",
+      "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\pc\\alu-csharp\\csharp-ifelse_loops_methods\\5-print_comb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\landi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
