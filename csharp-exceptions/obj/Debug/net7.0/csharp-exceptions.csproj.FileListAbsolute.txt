@@ -1,0 +1,14 @@
+C:\Users\pc\alu-csharp\csharp-exceptions\bin\Debug\net7.0\csharp-exceptions.exe
+C:\Users\pc\alu-csharp\csharp-exceptions\bin\Debug\net7.0\csharp-exceptions.deps.json
+C:\Users\pc\alu-csharp\csharp-exceptions\bin\Debug\net7.0\csharp-exceptions.runtimeconfig.json
+C:\Users\pc\alu-csharp\csharp-exceptions\bin\Debug\net7.0\csharp-exceptions.dll
+C:\Users\pc\alu-csharp\csharp-exceptions\bin\Debug\net7.0\csharp-exceptions.pdb
+C:\Users\pc\alu-csharp\csharp-exceptions\obj\Debug\net7.0\csharp-exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\alu-csharp\csharp-exceptions\obj\Debug\net7.0\csharp-exceptions.AssemblyInfoInputs.cache
+C:\Users\pc\alu-csharp\csharp-exceptions\obj\Debug\net7.0\csharp-exceptions.AssemblyInfo.cs
+C:\Users\pc\alu-csharp\csharp-exceptions\obj\Debug\net7.0\csharp-exceptions.csproj.CoreCompileInputs.cache
+C:\Users\pc\alu-csharp\csharp-exceptions\obj\Debug\net7.0\csharp-exceptions.dll
+C:\Users\pc\alu-csharp\csharp-exceptions\obj\Debug\net7.0\refint\csharp-exceptions.dll
+C:\Users\pc\alu-csharp\csharp-exceptions\obj\Debug\net7.0\csharp-exceptions.pdb
+C:\Users\pc\alu-csharp\csharp-exceptions\obj\Debug\net7.0\csharp-exceptions.genruntimeconfig.cache
+C:\Users\pc\alu-csharp\csharp-exceptions\obj\Debug\net7.0\ref\csharp-exceptions.dll
