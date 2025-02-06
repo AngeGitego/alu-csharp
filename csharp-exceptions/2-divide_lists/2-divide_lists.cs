@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 
 public class List
@@ -10,6 +10,14 @@ public class List
         {
             try
             {
+                if (i >= list1.Count || i >= list2.Count)
+                {
+                    throw new ArgumentOutOfRangeException();
+                }
+                if (list2[i] == 0)
+                {
+                    throw new DivideByZeroException();
+                }
                 result.Add(list1[i] / list2[i]);
             }
             catch (DivideByZeroException)
