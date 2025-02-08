@@ -5,35 +5,20 @@ class MyStack
 {
     public static Stack<string> Info(Stack<string> aStack, string newItem, string search)
     {
-        // Print all elements in the stack (from top to bottom)
-        foreach (string item in aStack)
-        {
-            Console.WriteLine(item);
-        }
-        Console.WriteLine("------");
+        // Print the number of elements in the stack
+        Console.WriteLine(aStack.Count);
 
-        // Print the number of elements in the stack with the correct label
-        Console.WriteLine($"Number of items: {aStack.Count}");
-
-        // Print the top element of the stack, or "Stack is empty" if it's empty
+        // Print the top element of the stack without removing it (Peek instead of Pop)
         if (aStack.Count > 0)
-            Console.WriteLine($"Top item: {aStack.Peek()}");
+            Console.WriteLine(aStack.Peek());
         else
             Console.WriteLine("Stack is empty");
-
-        // Check if the stack contains the search item and print the result
-        Console.WriteLine($"Stack contains \"{search}\": {aStack.Contains(search)}");
-
-        Console.WriteLine("------");
 
         // Push the new item onto the stack
         aStack.Push(newItem);
 
-        // Print all elements in the modified stack
-        foreach (string item in aStack)
-        {
-            Console.WriteLine(item);
-        }
+        // Check if the search item exists in the stack
+        Console.WriteLine(aStack.Contains(search));
 
         return aStack;
     }
