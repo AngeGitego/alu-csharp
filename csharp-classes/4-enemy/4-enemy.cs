@@ -36,11 +36,5 @@
         {
             return health;
         }
-
-        // Override the ToString() method to format the output as specified
-        public override string ToString()
-        {
-            return $"Zombie Name: {name} / Total Health: {health}";
-        }
     }
 }

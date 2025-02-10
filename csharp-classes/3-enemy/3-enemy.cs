@@ -2,11 +2,8 @@
 {
     public class Zombie
     {
-        // Private field health (no initial value)
+        // Private field health (without an initial value)
         private int health;
-
-        // Private field name with default value "No name"
-        private string name = "No name";
 
         // Public constructor: sets health to 0
         public Zombie()
@@ -24,23 +21,10 @@
             health = value;
         }
 
-        // Public property Name
-        public string Name
-        {
-            get { return name; }
-            set { name = value; }
-        }
-
         // Public method: returns the value of health
         public int GetHealth()
         {
             return health;
-        }
-
-        // Override the ToString() method to format the output as specified
-        public override string ToString()
-        {
-            return $"Zombie Name: {name} / Total Health: {health}";
         }
     }
 }
