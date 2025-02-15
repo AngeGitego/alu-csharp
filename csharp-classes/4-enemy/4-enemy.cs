@@ -1,40 +1,38 @@
-﻿namespace Enemies
+using System;
+
+namespace Enemies
 {
+    /// <summary>
+    /// Represents a zombie enemy.
+    /// </summary>
     public class Zombie
     {
-        // Private field health (no initial value)
+        /// <summary>
+        /// The health of the zombie (private field).
+        /// </summary>
         private int health;
 
-        // Private field name with default value "No name"
-        private string name = "No name";
+        /// <summary>
+        /// The name of the zombie (private field).
+        /// </summary>
+        private string name = "(No name)";
 
-        // Public constructor: sets health to 0
-        public Zombie()
-        {
-            health = 0;
-        }
-
-        // Public constructor: sets health to the given value (must be >= 0)
-        public Zombie(int value)
-        {
-            if (value < 0)
-            {
-                throw new ArgumentException("Health must be greater than or equal to 0");
-            }
-            health = value;
-        }
-
-        // Public property Name
+        /// <summary>
+        /// Gets or sets the name of the zombie.
+        /// </summary>
         public string Name
         {
             get { return name; }
             set { name = value; }
         }
 
-        // Public method: returns the value of health
-        public int GetHealth()
+        /// <summary>
+        /// Initializes a new instance of the <see cref="Zombie"/> class with default health set to 0.
+        /// </summary>
+        public Zombie()
         {
-            return health;
+            health = 0;
         }
-    }
-}
+
+        /// <summary>
+        /// Initializes a new instance of the <see cref="Zombie"/> cl
