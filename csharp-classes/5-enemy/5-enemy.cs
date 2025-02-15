@@ -56,11 +56,12 @@ namespace Enemies
         {
             return health;
         }
+/// <summary>
+/// Get the health of the zombie.
+/// </summary>
+/// <returns>Returns the health value of the zombie.</returns>
 
-        /// <summary>
-        /// Returns a string representation of the Zombie object.
-        /// </summary>
-        /// <returns>Formatted string: "Zombie Name: <name> / Total Health: <health>"</returns>
+        
         public override string ToString()
         {
             return $"Zombie Name: {name} / Total Health: {health}";
