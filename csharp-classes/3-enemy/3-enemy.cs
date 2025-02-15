@@ -1,17 +1,30 @@
-﻿namespace Enemies
+using System;
+
+namespace Enemies
 {
+    /// <summary>
+    /// Represents a zombie enemy.
+    /// </summary>
     public class Zombie
     {
-        // Private field health (without an initial value)
+        /// <summary>
+        /// The health of the zombie (private field).
+        /// </summary>
         private int health;
 
-        // Public constructor: sets health to 0
+        /// <summary>
+        /// Initializes a new instance of the <see cref="Zombie"/> class with default health set to 0.
+        /// </summary>
         public Zombie()
         {
             health = 0;
         }
 
-        // Public constructor: sets health to the given value (must be >= 0)
+        /// <summary>
+        /// Initializes a new instance of the <see cref="Zombie"/> class with a specified health value.
+        /// </summary>
+        /// <param name="value">The initial health value of the zombie. Must be >= 0.</param>
+        /// <exception cref="ArgumentException">Thrown when value is less than 0.</exception>
         public Zombie(int value)
         {
             if (value < 0)
@@ -21,7 +34,10 @@
             health = value;
         }
 
-        // Public method: returns the value of health
+        /// <summary>
+        /// Gets the health value of the zombie.
+        /// </summary>
+        /// <returns>The zombie's health.</returns>
         public int GetHealth()
         {
             return health;
