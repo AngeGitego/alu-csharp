@@ -2,38 +2,49 @@ using System;
 
 namespace Enemies
 {
-    /// <summary>
-    /// Represents a zombie enemy.
-    /// </summary>
     public class Zombie
     {
-        /// <summary>
-        /// The health of the zombie (private field).
-        /// </summary>
-        private int health;
+        private int health; // private field health
+        private string name; // private field name
 
-        /// <summary>
-        /// The name of the zombie (private field).
-        /// </summary>
-        private string name = "(No name)";
+        // Default constructor sets health to 0 and name to "(No name)"
+        public Zombie()
+        {
+            health = 0;
+            name = "(No name)";
+        }
 
-        /// <summary>
-        /// Gets or sets the name of the zombie.
-        /// </summary>
+        // Constructor that accepts a value for health
+        public Zombie(int value)
+        {
+            if (value >= 0)
+            {
+                health = value;
+            }
+            else
+            {
+                throw new ArgumentException("Health cannot be less than 0");
+            }
+            name = "(No name)";
+        }
+
+        // Property for Name
         public string Name
         {
             get { return name; }
             set { name = value; }
         }
 
-        /// <summary>
-        /// Initializes a new instance of the <see cref="Zombie"/> class with default health set to 0.
-        /// </summary>
-        public Zombie()
+        // Method to get health
+        public int GetHealth()
         {
-            health = 0;
+            return health;
+        }
+
+        // Override the ToString method to display Zombie's details
+        public override string ToString()
+        {
+            return $"Zombie Name: {name} / Total Health: {health}";
         }
     }
-        /// <summary>
-        /// Initializes a new instance of the <see cref="Zombie"/> cl
-    
+}
