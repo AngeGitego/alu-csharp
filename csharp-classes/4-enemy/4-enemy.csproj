@@ -8,6 +8,5 @@
     <RootNamespace>_4_enemy</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-  </PropertyGroup>
 
 </Project>
