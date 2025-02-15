@@ -1,8 +1,14 @@
 using Enemies;
 using System;
 
+/// <summary>
+/// Entry point of the program.
+/// </summary>
 class Program
 {
+    /// <summary>
+    /// Main method that creates Zombie objects and displays their attributes.
+    /// </summary>
     static void Main(string[] args)
     {
         Enemies.Zombie newObject1;
