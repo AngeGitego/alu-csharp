@@ -3,22 +3,28 @@ using System.Collections.Generic;
 
 class Program
 {
+    // Main - entry point
     static void Main(string[] args)
     {
-        Stack<string> aStack = new Stack<string>(new[] { "C", "HTML", "Javascript", "Python", "React", "Ruby" });
+        Stack<string> aStack = new Stack<string>();
+
+        aStack.Push("C");
+        aStack.Push("HTML");
+        aStack.Push("Javascript");
+        aStack.Push("Python");
+        aStack.Push("React");
+        aStack.Push("Ruby");
+
+        foreach (string item in aStack)
+            Console.WriteLine(item);
+
+        Console.WriteLine("------");
 
         MyStack.Info(aStack, "C#", "Javascript");
 
-        Console.WriteLine("------------------");
+        Console.WriteLine("------");
 
-        Stack<string> anotherStack = new Stack<string>(new[] { "Physical", "Data Link", "Network", "Transport", "Session", "Presentation" });
-
-        MyStack.Info(anotherStack, "Application", "Application");
-
-        Console.WriteLine("------------------");
-
-        Stack<string> emptyStack = new Stack<string>();
-
-        MyStack.Info(emptyStack, "C#", "C++");
+        foreach (string item in aStack)
+            Console.WriteLine(item);
     }
 }
