@@ -2,56 +2,58 @@ using System;
 using System.Reflection;
 
 /// <summary>
-/// Contains methods to inspect object properties and methods.
+/// Contains methods to check object types.
 /// </summary>
 public class Obj
 {
     /// <summary>
+    /// Determines if the given object is of type int.
+    /// </summary>
+    /// <param name="obj">The object to check.</param>
+    /// <returns>True if obj is an int, otherwise False.</returns>
+    public static bool IsOfTypeInt(object obj)
+    {
+        return obj is int;
+    }
+
+    /// <summary>
+    /// Determines if the given object is an instance of, or inherits from, Array.
+    /// </summary>
+    /// <param name="obj">The object to check.</param>
+    /// <returns>True if obj is an instance of or inherits from Array, otherwise False.</returns>
+    public static bool IsInstanceOfArray(object obj)
+    {
+        return obj is Array;
+    }
+
+    /// <summary>
+    /// Determines if the given type is a subclass of a specified base type.
+    /// </summary>
+    /// <param name="derivedType">The derived type to check.</param>
+    /// <param name="baseType">The base type to compare against.</param>
+    /// <returns>True if derivedType is a subclass of baseType, otherwise False.</returns>
+    public static bool IsOnlyASubclass(Type derivedType, Type baseType)
+    {
+        return derivedType.IsSubclassOf(baseType);
+    }
+
+    /// <summary>
     /// Prints the names of the available properties and methods of an object.
     /// </summary>
+    /// <param name="myObj">The object to inspect.</param>
     public static void Print(object myObj)
     {
         Type objType = myObj.GetType();
-        
         Console.WriteLine($"{objType.Name} Properties:");
-        PropertyInfo[] properties = objType.GetProperties();
-        if (properties.Length == 0)
+        foreach (PropertyInfo prop in objType.GetProperties())
         {
-            Console.WriteLine("None");
+            Console.WriteLine(prop.Name);
         }
-        else
-        {
-            foreach (PropertyInfo prop in properties)
-            {
-                Console.WriteLine(prop.Name);
-            }
-        }
-
+        
         Console.WriteLine($"{objType.Name} Methods:");
-        MethodInfo[] methods = objType.GetMethods();
-        if (methods.Length == 0)
+        foreach (MethodInfo method in objType.GetMethods())
         {
-            Console.WriteLine("None");
+            Console.WriteLine(method.Name);
         }
-        else
-        {
-            foreach (MethodInfo method in methods)
-            {
-                Console.WriteLine(method.Name);
-            }
-        }
-    }
-}
-
-/// <summary>
-/// Example class for testing.
-/// </summary>
-public class Dog
-{
-    public string Name { get; set; }
-
-    public void Bark()
-    {
-        Console.WriteLine("Woof!");
     }
 }
