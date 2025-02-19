@@ -57,3 +57,22 @@ public class Obj
         }
     }
 }
+
+/// <summary>
+/// Represents a Dog with a Name property and a Bark method.
+/// </summary>
+public class Dog
+{
+    /// <summary>
+    /// Gets or sets the name of the dog. Default value is "Unnamed".
+    /// </summary>
+    public string Name { get; set; } = "Unnamed";
+
+    /// <summary>
+    /// Makes the dog bark.
+    /// </summary>
+    public void Bark()
+    {
+        Console.WriteLine("Woof!");
+    }
+}
