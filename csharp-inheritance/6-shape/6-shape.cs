@@ -1,21 +1,22 @@
-﻿using System;
+using System;
 
 /// <summary>
-/// Represents a base shape.
+/// Base class Shape
 /// </summary>
 public class Shape
 {
     /// <summary>
-    /// Computes the area of the shape.
+    /// Virtual method Area() to be overridden
     /// </summary>
-    /// <returns>Throws a NotImplementedException.</returns>
+    /// <returns>Throws NotImplementedException</returns>
     public virtual int Area()
     {
         throw new NotImplementedException("Area() is not implemented");
     }
 }
+
 /// <summary>
-/// Represents a rectangle, inheriting from Shape.
+/// Rectangle class inherits from Shape
 /// </summary>
 public class Rectangle : Shape
 {
@@ -23,7 +24,7 @@ public class Rectangle : Shape
     private int height;
 
     /// <summary>
-    /// Gets or sets the width of the rectangle.
+    /// Gets or sets the width of the rectangle
     /// </summary>
     public int Width
     {
@@ -31,13 +32,13 @@ public class Rectangle : Shape
         set
         {
             if (value < 0)
-                throw new ArgumentException("Width must be greater than or equal to 0.");
+                throw new ArgumentException("Width must be greater than or equal to 0");
             width = value;
         }
     }
 
     /// <summary>
-    /// Gets or sets the height of the rectangle.
+    /// Gets or sets the height of the rectangle
     /// </summary>
     public int Height
     {
@@ -45,7 +46,7 @@ public class Rectangle : Shape
         set
         {
             if (value < 0)
-                throw new ArgumentException("Height must be greater than or equal to 0.");
+                throw new ArgumentException("Height must be greater than or equal to 0");
             height = value;
         }
     }
