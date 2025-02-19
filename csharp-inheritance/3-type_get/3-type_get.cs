@@ -4,6 +4,22 @@ using System.Reflection;
 /// <summary>
 /// Contains methods to check object types.
 /// </summary>
+public class Dog
+{
+    /// <summary>
+    /// Gets or sets the name of the dog.
+    /// </summary>
+    public string Name { get; set; } = "Unnamed";
+
+    /// <summary>
+    /// Makes the dog bark.
+    /// </summary>
+    public void Bark()
+    {
+        Console.WriteLine("Woof!");
+    }
+}
+
 public class Obj
 {
     /// <summary>
