@@ -55,19 +55,3 @@ public class Dog
         Console.WriteLine("Woof!");
     }
 }
-
-class Program
-{
-    static void Main(string[] args)
-    {
-        var num = 10;
-        var myList = new System.Collections.Generic.List<int>();
-        var a = new Dog();
-
-        Obj.Print(num);
-        Console.WriteLine("-----------------");
-        Obj.Print(myList);
-        Console.WriteLine("-----------------");
-        Obj.Print(a);
-    }
-}
