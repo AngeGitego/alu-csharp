@@ -4,7 +4,7 @@
     <OutputType>Exe</OutputType>
     <TargetFrameworks>netcoreapp2.1;net7.0</TargetFrameworks>
     <RootNamespace>_1_new_project</RootNamespace>
-    <ImplicitUsings>enable</ImplicitUsings>
+    <ImplicitUsings>Disable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
