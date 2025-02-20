@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\landi\\c-sharp\\csharp-hello_world\\2-new_project\\2-new_project.csproj": {}
+    "C:\\Users\\pc\\alu-csharp\\csharp-hello_world\\2-new_project\\2-new_project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\landi\\c-sharp\\csharp-hello_world\\2-new_project\\2-new_project.csproj": {
+    "C:\\Users\\pc\\alu-csharp\\csharp-hello_world\\2-new_project\\2-new_project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\landi\\c-sharp\\csharp-hello_world\\2-new_project\\2-new_project.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\alu-csharp\\csharp-hello_world\\2-new_project\\2-new_project.csproj",
         "projectName": "2-new_project",
-        "projectPath": "C:\\Users\\landi\\c-sharp\\csharp-hello_world\\2-new_project\\2-new_project.csproj",
-        "packagesPath": "C:\\Users\\landi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\landi\\c-sharp\\csharp-hello_world\\2-new_project\\obj\\",
+        "projectPath": "C:\\Users\\pc\\alu-csharp\\csharp-hello_world\\2-new_project\\2-new_project.csproj",
+        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pc\\alu-csharp\\csharp-hello_world\\2-new_project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\landi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "netcoreapp2.1"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
             "projectReferences": {}
           }
         },
@@ -35,8 +35,16 @@
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -48,11 +56,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.410\\RuntimeIdentifierGraph.json"
         }
       }

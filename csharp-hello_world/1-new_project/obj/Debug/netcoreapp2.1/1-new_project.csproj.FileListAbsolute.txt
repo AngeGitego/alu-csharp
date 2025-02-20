@@ -1,0 +1,6 @@
+C:\Users\pc\alu-csharp\csharp-hello_world\1-new_project\obj\Debug\netcoreapp2.1\1-new_project.csproj.AssemblyReference.cache
+C:\Users\pc\alu-csharp\csharp-hello_world\1-new_project\obj\Debug\netcoreapp2.1\1-new_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\alu-csharp\csharp-hello_world\1-new_project\obj\Debug\netcoreapp2.1\1-new_project.AssemblyInfoInputs.cache
+C:\Users\pc\alu-csharp\csharp-hello_world\1-new_project\obj\Debug\netcoreapp2.1\1-new_project.AssemblyInfo.cs
+C:\Users\pc\alu-csharp\csharp-hello_world\1-new_project\obj\Debug\netcoreapp2.1\1-new_project.csproj.CoreCompileInputs.cache
+C:\Users\pc\alu-csharp\csharp-hello_world\1-new_project\obj\Debug\netcoreapp2.1\1-new_project.sourcelink.json
