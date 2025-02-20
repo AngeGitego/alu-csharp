@@ -1,6 +1,16 @@
 #!/usr/bin/env bash
-mkdir -p 1-new_project
-cd 1-new_project || exit
-dotnet new console
-echo "The template \"Console Application\" was created successfully."
+
+# Set project directory name
+PROJECT_DIR="1-new_project"
+
+# Create the new C# project
+dotnet new console -o "$PROJECT_DIR"
+
+# Navigate into the project directory
+cd "$PROJECT_DIR" || exit 1
+
+# Restore dependencies
+dotnet restore
+
+# Build the project
 dotnet build
