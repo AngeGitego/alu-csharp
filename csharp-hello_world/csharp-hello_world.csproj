@@ -5,7 +5,7 @@
    <TargetFrameworks>netcoreapp2.1;net7.0</TargetFrameworks>
     <RootNamespace>csharp_hello_world</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
+    <Nullable>Disable</Nullable>
   </PropertyGroup>
 
 </Project>
