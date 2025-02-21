@@ -1,40 +1,38 @@
-﻿using System;
-using System.Linq;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 
 namespace Text
 {
-    public class Str
+    public static class Str
+{
+    public static int UniqueChar(string input)
     {
-        public static int UniqueChar(string s)
+        var charCount = new Dictionary<char, int>();
+
+        // Count occurrences of each character
+        foreach (var c in input)
         {
-            // Dictionary to store the frequency of each character
-            var charCount = new Dictionary<char, int>();
-
-            // Count the occurrences of each character
-            foreach (var c in s)
+            if (charCount.ContainsKey(c))
             {
-                if (charCount.ContainsKey(c))
-                {
-                    charCount[c]++;
-                }
-                else
-                {
-                    charCount[c] = 1;
-                }
+                charCount[c]++;
             }
-
-            // Loop through the string again to find the first non-repeating character
-            for (int i = 0; i < s.Length; i++)
+            else
             {
-                if (charCount[s[i]] == 1)
-                {
-                    return i;
-                }
+                charCount[c] = 1;
             }
-
-            // Return -1 if no non-repeating character is found
-            return -1;
         }
+
+        // Find the first unique character
+        for (int i = 0; i < input.Length; i++)
+        {
+            if (charCount[input[i]] == 1)
+            {
+                return i; // Return the index of the first unique character
+            }
+        }
+
+        return -1; // No unique character found
     }
 }
+
+    }
+
