@@ -1,32 +1,49 @@
 ﻿using NUnit.Framework;
-using Text;  // Make sure this namespace is correct
+using Text; // Add this line to reference the Str class
 
 namespace Text.Tests
 {
+    [TestFixture]
     public class StrTests
     {
         [Test]
-        public void TestIsPalindrome()
+        public void TestIsPalindrome_WithPalindrome_ReturnsTrue()
         {
-            Assert.IsTrue(Str.IsPalindrome("A man, a plan, a canal: Panama"));
+            string input = "Racecar";
+            bool result = Str.IsPalindrome(input);
+            Assert.IsTrue(result);  // 'Racecar' is a palindrome
         }
 
         [Test]
-        public void TestIsPalindromeWithNonPalindrome()
+        public void TestIsPalindrome_WithNonPalindrome_ReturnsFalse()
         {
-            Assert.IsFalse(Str.IsPalindrome("hello"));
+            string input = "Hello";
+            bool result = Str.IsPalindrome(input);
+            Assert.IsFalse(result);  // 'Hello' is not a palindrome
         }
 
         [Test]
-        public void TestEmptyStringIsPalindrome()
+        public void TestIsPalindrome_WithEmptyString_ReturnsTrue()
         {
-            Assert.IsTrue(Str.IsPalindrome(""));
+            string input = "";
+            bool result = Str.IsPalindrome(input);
+            Assert.IsTrue(result);  // Empty string is considered a palindrome
         }
 
         [Test]
-        public void TestSingleCharacterIsPalindrome()
+        public void TestIsPalindrome_WithStringWithSpacesAndPunctuation_ReturnsTrue()
         {
-            Assert.IsTrue(Str.IsPalindrome("a"));
+            string input = "A man, a plan, a canal: Panama.";
+            bool result = Str.IsPalindrome(input);
+            Assert.IsTrue(result);  // The string is a palindrome ignoring spaces and punctuation
+        }
+
+        [Test]
+        public void TestIsPalindrome_WithStringWithSpaces_ReturnsTrue()
+        {
+            string input = " level ";
+            bool result = Str.IsPalindrome(input);
+            Assert.IsTrue(result);  // ' level ' is a palindrome ignoring spaces
         }
     }
 }
