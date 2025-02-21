@@ -1,0 +1,8 @@
+C:\Users\pc\alu-csharp\csharp-tdd\1-divide\MyMath.Tests\bin\Debug\net9.0\.msCoverageSourceRootsMapping_MyMath.Tests
+C:\Users\pc\alu-csharp\csharp-tdd\1-divide\MyMath.Tests\bin\Debug\net9.0\CoverletSourceRootsMapping_MyMath.Tests
+C:\Users\pc\alu-csharp\csharp-tdd\1-divide\MyMath.Tests\obj\Debug\net9.0\MyMath.Tests.csproj.AssemblyReference.cache
+C:\Users\pc\alu-csharp\csharp-tdd\1-divide\MyMath.Tests\obj\Debug\net9.0\MyMath.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\alu-csharp\csharp-tdd\1-divide\MyMath.Tests\obj\Debug\net9.0\MyMath.Tests.AssemblyInfoInputs.cache
+C:\Users\pc\alu-csharp\csharp-tdd\1-divide\MyMath.Tests\obj\Debug\net9.0\MyMath.Tests.AssemblyInfo.cs
+C:\Users\pc\alu-csharp\csharp-tdd\1-divide\MyMath.Tests\obj\Debug\net9.0\MyMath.Tests.csproj.CoreCompileInputs.cache
+C:\Users\pc\alu-csharp\csharp-tdd\1-divide\MyMath.Tests\obj\Debug\net9.0\MyMath.Tests.sourcelink.json
