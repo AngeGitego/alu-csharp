@@ -9,16 +9,19 @@
         /// <returns>The number of words in the string.</returns>
         public static int CamelCase(string s)
         {
-            if (string.IsNullOrEmpty(s))
-                return 0;
+            if (string.IsNullOrEmpty(s)) return 0;
 
-            int wordCount = 1; // The first word is always counted
-            foreach (char c in s)
+            s = s.Trim(); // Trim leading/trailing spaces
+
+            int words = 1; // Start with 1 for the first word
+            foreach (var c in s)
             {
+                // Increment words if an uppercase letter is found
                 if (char.IsUpper(c))
-                    wordCount++;
+                    words++;
             }
-            return wordCount;
+
+            return words;
         }
     }
 }

@@ -1,0 +1,13 @@
+C:\Users\pc\alu-csharp\csharp-tdd\5-camelcase\Text\bin\Debug\net7.0\Text.xml
+C:\Users\pc\alu-csharp\csharp-tdd\5-camelcase\Text\bin\Debug\net7.0\Text.deps.json
+C:\Users\pc\alu-csharp\csharp-tdd\5-camelcase\Text\bin\Debug\net7.0\Text.dll
+C:\Users\pc\alu-csharp\csharp-tdd\5-camelcase\Text\bin\Debug\net7.0\Text.pdb
+C:\Users\pc\alu-csharp\csharp-tdd\5-camelcase\Text\obj\Debug\net7.0\Text.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\alu-csharp\csharp-tdd\5-camelcase\Text\obj\Debug\net7.0\Text.AssemblyInfoInputs.cache
+C:\Users\pc\alu-csharp\csharp-tdd\5-camelcase\Text\obj\Debug\net7.0\Text.AssemblyInfo.cs
+C:\Users\pc\alu-csharp\csharp-tdd\5-camelcase\Text\obj\Debug\net7.0\Text.csproj.CoreCompileInputs.cache
+C:\Users\pc\alu-csharp\csharp-tdd\5-camelcase\Text\obj\Debug\net7.0\Text.sourcelink.json
+C:\Users\pc\alu-csharp\csharp-tdd\5-camelcase\Text\obj\Debug\net7.0\Text.dll
+C:\Users\pc\alu-csharp\csharp-tdd\5-camelcase\Text\obj\Debug\net7.0\refint\Text.dll
+C:\Users\pc\alu-csharp\csharp-tdd\5-camelcase\Text\obj\Debug\net7.0\Text.pdb
+C:\Users\pc\alu-csharp\csharp-tdd\5-camelcase\Text\obj\Debug\net7.0\ref\Text.dll

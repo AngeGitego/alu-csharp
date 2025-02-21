@@ -28,10 +28,13 @@ namespace Text.Tests
         }
 
         [Test]
-        public void CamelCase_WithEmptyWords_ReturnsCorrectCount()
-        {
-            var result = Str.CamelCase("oneCamelCaseWord");
-            Assert.AreEqual(2, result);
-        }
+public void CamelCase_WithEmptyWords_ReturnsCorrectCount()
+{
+    // Adjust this to match what you want to test, possibly an empty string or string with spaces
+    string input = "camelCaseString";
+    int result = Str.CamelCase(input);
+    Assert.AreEqual(3, result);  // Make sure the expected value matches
+}
+
     }
 }
