@@ -1,6 +1,6 @@
 using System;
 
-class Program
+class Fizzbuz
 {
     static void Main()
     {
