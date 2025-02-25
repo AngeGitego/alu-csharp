@@ -1,14 +1,10 @@
 using System;
 
-public class Character
+class Character
 {
     public static bool IsLower(char c)
     {
-        // Check if the character is between 'a' and 'z'
-        if (c >= 'a' && c <= 'z')
-        {
-            return true;
-        }
-        return false;
+        // Check if the character is between 'a' and 'z' in ASCII (97-122)
+        return c >= 'a' && c <= 'z';
     }
 }
