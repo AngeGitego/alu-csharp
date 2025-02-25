@@ -1,20 +1,20 @@
 using System;
 
-class Fizzbuz
+class FizzBuzz
 {
-    static void Main()
+    public static void Run()
     {
         for (int i = 1; i <= 100; i++)
         {
-            if (i % 3 == 0 && i % 5 == 0)
+            if (i % 3 == 0 && i % 5 == 0) 
                 Console.Write("FizzBuzz ");
-            else if (i % 3 == 0)
+            else if (i % 3 == 0) 
                 Console.Write("Fizz ");
-            else if (i % 5 == 0)
+            else if (i % 5 == 0) 
                 Console.Write("Buzz ");
-            else
+            else 
                 Console.Write(i + " ");
         }
-        Console.WriteLine(); // New line at the end
+        Console.WriteLine();
     }
 }
