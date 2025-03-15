@@ -13,7 +13,7 @@ class Magnitude3D
         // Round the result to the nearest hundredth
         magnitude = Math.Round(magnitude, 2);
 
-        // Write the result to a text file
-        System.IO.File.WriteAllText("2-magnitude_3D.txt", magnitude.ToString());
+        // Write the result to a text file with a new line at the end
+        System.IO.File.WriteAllText("2-magnitude_3D.txt", magnitude.ToString() + Environment.NewLine);
     }
 }
