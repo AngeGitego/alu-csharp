@@ -12,3 +12,4 @@ C:\Users\pc\alu-csharp\csharp-hashset_stack_queue_linkedlist\3-stack_push_pop\ob
 C:\Users\pc\alu-csharp\csharp-hashset_stack_queue_linkedlist\3-stack_push_pop\obj\Debug\net7.0\3-stack_push_pop.pdb
 C:\Users\pc\alu-csharp\csharp-hashset_stack_queue_linkedlist\3-stack_push_pop\obj\Debug\net7.0\3-stack_push_pop.genruntimeconfig.cache
 C:\Users\pc\alu-csharp\csharp-hashset_stack_queue_linkedlist\3-stack_push_pop\obj\Debug\net7.0\ref\3-stack_push_pop.dll
+C:\Users\pc\alu-csharp\csharp-hashset_stack_queue_linkedlist\3-stack_push_pop\obj\Debug\net7.0\3-stack_push_pop.sourcelink.json

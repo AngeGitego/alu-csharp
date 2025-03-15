@@ -13,3 +13,4 @@ C:\Users\pc\alu-csharp\csharp-classes\0-enemy\obj\Debug\net9.0\refint\0-enemy.dl
 C:\Users\pc\alu-csharp\csharp-classes\0-enemy\obj\Debug\net9.0\0-enemy.pdb
 C:\Users\pc\alu-csharp\csharp-classes\0-enemy\obj\Debug\net9.0\0-enemy.genruntimeconfig.cache
 C:\Users\pc\alu-csharp\csharp-classes\0-enemy\obj\Debug\net9.0\ref\0-enemy.dll
+C:\Users\pc\alu-csharp\csharp-classes\0-enemy\bin\Debug\net9.0\0-enemy.xml

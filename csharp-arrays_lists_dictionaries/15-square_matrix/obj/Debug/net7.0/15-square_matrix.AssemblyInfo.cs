@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("15-square_matrix")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5bfe2c283fe51035763ec77c8e440da0ef0c5d6c")]
 [assembly: System.Reflection.AssemblyProductAttribute("15-square_matrix")]
 [assembly: System.Reflection.AssemblyTitleAttribute("15-square_matrix")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -12,3 +12,4 @@ C:\Users\landi\c-sharp\csharp-hello_world\obj\Debug\net7.0\refint\csharp-hello_w
 C:\Users\landi\c-sharp\csharp-hello_world\obj\Debug\net7.0\csharp-hello_world.pdb
 C:\Users\landi\c-sharp\csharp-hello_world\obj\Debug\net7.0\csharp-hello_world.genruntimeconfig.cache
 C:\Users\landi\c-sharp\csharp-hello_world\obj\Debug\net7.0\ref\csharp-hello_world.dll
+C:\Users\pc\alu-csharp\csharp-hello_world\obj\Debug\net7.0\csharp-hello_world.pdb

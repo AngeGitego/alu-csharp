@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "I+P86meAKMCwD1wMc4MDXxfCfENIUzJ5Z3givktgRZN5Qq7hyutZ7c3SKKc1cv9IHaf4ES3BXMLEO4lwO/O7TA==",
+  "dgSpecHash": "X4xyDl6QNQ0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\landi\\c-sharp\\csharp-ifelse_loops_methods\\7-islower\\7-islower.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\pc\\alu-csharp\\csharp-ifelse_loops_methods\\7-islower\\7-islower.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,4 +1,5 @@
 C:\Users\pc\alu-csharp\csharp-classes\5-enemy\bin\Debug\net9.0\5-enemy.exe
+C:\Users\pc\alu-csharp\csharp-classes\5-enemy\bin\Debug\net9.0\5-enemy.xml
 C:\Users\pc\alu-csharp\csharp-classes\5-enemy\bin\Debug\net9.0\5-enemy.deps.json
 C:\Users\pc\alu-csharp\csharp-classes\5-enemy\bin\Debug\net9.0\5-enemy.runtimeconfig.json
 C:\Users\pc\alu-csharp\csharp-classes\5-enemy\bin\Debug\net9.0\5-enemy.dll
