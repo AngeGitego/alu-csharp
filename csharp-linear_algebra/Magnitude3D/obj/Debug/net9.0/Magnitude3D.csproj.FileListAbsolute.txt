@@ -1,0 +1,15 @@
+C:\Users\pc\alu-csharp\csharp-linear_algebra\Magnitude3D\bin\Debug\net9.0\Magnitude3D.exe
+C:\Users\pc\alu-csharp\csharp-linear_algebra\Magnitude3D\bin\Debug\net9.0\Magnitude3D.deps.json
+C:\Users\pc\alu-csharp\csharp-linear_algebra\Magnitude3D\bin\Debug\net9.0\Magnitude3D.runtimeconfig.json
+C:\Users\pc\alu-csharp\csharp-linear_algebra\Magnitude3D\bin\Debug\net9.0\Magnitude3D.dll
+C:\Users\pc\alu-csharp\csharp-linear_algebra\Magnitude3D\bin\Debug\net9.0\Magnitude3D.pdb
+C:\Users\pc\alu-csharp\csharp-linear_algebra\Magnitude3D\obj\Debug\net9.0\Magnitude3D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\alu-csharp\csharp-linear_algebra\Magnitude3D\obj\Debug\net9.0\Magnitude3D.AssemblyInfoInputs.cache
+C:\Users\pc\alu-csharp\csharp-linear_algebra\Magnitude3D\obj\Debug\net9.0\Magnitude3D.AssemblyInfo.cs
+C:\Users\pc\alu-csharp\csharp-linear_algebra\Magnitude3D\obj\Debug\net9.0\Magnitude3D.csproj.CoreCompileInputs.cache
+C:\Users\pc\alu-csharp\csharp-linear_algebra\Magnitude3D\obj\Debug\net9.0\Magnitude3D.sourcelink.json
+C:\Users\pc\alu-csharp\csharp-linear_algebra\Magnitude3D\obj\Debug\net9.0\Magnitude3D.dll
+C:\Users\pc\alu-csharp\csharp-linear_algebra\Magnitude3D\obj\Debug\net9.0\refint\Magnitude3D.dll
+C:\Users\pc\alu-csharp\csharp-linear_algebra\Magnitude3D\obj\Debug\net9.0\Magnitude3D.pdb
+C:\Users\pc\alu-csharp\csharp-linear_algebra\Magnitude3D\obj\Debug\net9.0\Magnitude3D.genruntimeconfig.cache
+C:\Users\pc\alu-csharp\csharp-linear_algebra\Magnitude3D\obj\Debug\net9.0\ref\Magnitude3D.dll
