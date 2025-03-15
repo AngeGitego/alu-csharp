@@ -1,0 +1,15 @@
+C:\Users\pc\alu-csharp\csharp-linear_algebra\2-magnitude\bin\Debug\net9.0\2-magnitude.exe
+C:\Users\pc\alu-csharp\csharp-linear_algebra\2-magnitude\bin\Debug\net9.0\2-magnitude.deps.json
+C:\Users\pc\alu-csharp\csharp-linear_algebra\2-magnitude\bin\Debug\net9.0\2-magnitude.runtimeconfig.json
+C:\Users\pc\alu-csharp\csharp-linear_algebra\2-magnitude\bin\Debug\net9.0\2-magnitude.dll
+C:\Users\pc\alu-csharp\csharp-linear_algebra\2-magnitude\bin\Debug\net9.0\2-magnitude.pdb
+C:\Users\pc\alu-csharp\csharp-linear_algebra\2-magnitude\obj\Debug\net9.0\2-magnitude.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\alu-csharp\csharp-linear_algebra\2-magnitude\obj\Debug\net9.0\2-magnitude.AssemblyInfoInputs.cache
+C:\Users\pc\alu-csharp\csharp-linear_algebra\2-magnitude\obj\Debug\net9.0\2-magnitude.AssemblyInfo.cs
+C:\Users\pc\alu-csharp\csharp-linear_algebra\2-magnitude\obj\Debug\net9.0\2-magnitude.csproj.CoreCompileInputs.cache
+C:\Users\pc\alu-csharp\csharp-linear_algebra\2-magnitude\obj\Debug\net9.0\2-magnitude.sourcelink.json
+C:\Users\pc\alu-csharp\csharp-linear_algebra\2-magnitude\obj\Debug\net9.0\2-magnitude.dll
+C:\Users\pc\alu-csharp\csharp-linear_algebra\2-magnitude\obj\Debug\net9.0\refint\2-magnitude.dll
+C:\Users\pc\alu-csharp\csharp-linear_algebra\2-magnitude\obj\Debug\net9.0\2-magnitude.pdb
+C:\Users\pc\alu-csharp\csharp-linear_algebra\2-magnitude\obj\Debug\net9.0\2-magnitude.genruntimeconfig.cache
+C:\Users\pc\alu-csharp\csharp-linear_algebra\2-magnitude\obj\Debug\net9.0\ref\2-magnitude.dll
