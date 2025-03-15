@@ -10,11 +10,14 @@ class Pythagoras
         double AB = 64;
         double BC = 121;
         double AC = Math.Sqrt(Math.Pow(AB, 2) + Math.Pow(BC, 2));
-        AC = Math.Round(AC, 2); // Round to 2 decimal places
+
+        // Round to the nearest hundredth, rounding down if necessary
+        AC = Math.Round(AC, 2, MidpointRounding.AwayFromZero); // This rounds to two decimal places
 
         // Save result to a text file
         System.IO.File.WriteAllText("0-pythagoras.txt", AC.ToString());
 
+        // Output for checking
         Console.WriteLine($"The length of AC is: {AC}");
     }
 }
