@@ -1,0 +1,15 @@
+C:\Users\landi\c-sharp\csharp-hello_world\bin\Debug\net7.0\csharp-hello_world.exe
+C:\Users\landi\c-sharp\csharp-hello_world\bin\Debug\net7.0\csharp-hello_world.deps.json
+C:\Users\landi\c-sharp\csharp-hello_world\bin\Debug\net7.0\csharp-hello_world.runtimeconfig.json
+C:\Users\landi\c-sharp\csharp-hello_world\bin\Debug\net7.0\csharp-hello_world.dll
+C:\Users\landi\c-sharp\csharp-hello_world\bin\Debug\net7.0\csharp-hello_world.pdb
+C:\Users\landi\c-sharp\csharp-hello_world\obj\Debug\net7.0\csharp-hello_world.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\landi\c-sharp\csharp-hello_world\obj\Debug\net7.0\csharp-hello_world.AssemblyInfoInputs.cache
+C:\Users\landi\c-sharp\csharp-hello_world\obj\Debug\net7.0\csharp-hello_world.AssemblyInfo.cs
+C:\Users\landi\c-sharp\csharp-hello_world\obj\Debug\net7.0\csharp-hello_world.csproj.CoreCompileInputs.cache
+C:\Users\landi\c-sharp\csharp-hello_world\obj\Debug\net7.0\csharp-hello_world.dll
+C:\Users\landi\c-sharp\csharp-hello_world\obj\Debug\net7.0\refint\csharp-hello_world.dll
+C:\Users\landi\c-sharp\csharp-hello_world\obj\Debug\net7.0\csharp-hello_world.pdb
+C:\Users\landi\c-sharp\csharp-hello_world\obj\Debug\net7.0\csharp-hello_world.genruntimeconfig.cache
+C:\Users\landi\c-sharp\csharp-hello_world\obj\Debug\net7.0\ref\csharp-hello_world.dll
+C:\Users\pc\alu-csharp\csharp-hello_world\obj\Debug\net7.0\csharp-hello_world.pdb
