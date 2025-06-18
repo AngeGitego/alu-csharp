@@ -70,7 +70,7 @@ public class Queue<T>
         }
         else
         {
-            tail!.next = newNode;
+            tail!.next = newNode; // null-forgiving operator because tail is not null here
             tail = newNode;
         }
         count++;
