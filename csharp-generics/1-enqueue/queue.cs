@@ -1,4 +1,4 @@
-﻿/// <summary>
+/// <summary>
 /// Generic Queue class.
 /// </summary>
 /// <typeparam name="T">Type of items in the queue.</typeparam>
@@ -12,12 +12,12 @@ public class Queue<T>
         /// <summary>
         /// The value stored in the node.
         /// </summary>
-        public T value;
+        public T? value;
 
         /// <summary>
         /// Reference to the next node.
         /// </summary>
-        public Node next;
+        public Node? next;
 
         /// <summary>
         /// Constructor to create a node with a given value.
@@ -33,12 +33,12 @@ public class Queue<T>
     /// <summary>
     /// The first node in the queue.
     /// </summary>
-    public Node head;
+    public Node? head;
 
     /// <summary>
     /// The last node in the queue.
     /// </summary>
-    public Node tail;
+    public Node? tail;
 
     /// <summary>
     /// Number of nodes in the queue.
@@ -70,7 +70,7 @@ public class Queue<T>
         }
         else
         {
-            tail.next = newNode;
+            tail!.next = newNode;
             tail = newNode;
         }
         count++;
