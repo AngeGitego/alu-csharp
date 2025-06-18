@@ -1,0 +1,12 @@
+C:\Users\pc\alu-csharp\csharp-tdd\2-max_int\MyMath\bin\Debug\net9.0\MyMath.deps.json
+C:\Users\pc\alu-csharp\csharp-tdd\2-max_int\MyMath\bin\Debug\net9.0\MyMath.dll
+C:\Users\pc\alu-csharp\csharp-tdd\2-max_int\MyMath\bin\Debug\net9.0\MyMath.pdb
+C:\Users\pc\alu-csharp\csharp-tdd\2-max_int\MyMath\obj\Debug\net9.0\MyMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\alu-csharp\csharp-tdd\2-max_int\MyMath\obj\Debug\net9.0\MyMath.AssemblyInfoInputs.cache
+C:\Users\pc\alu-csharp\csharp-tdd\2-max_int\MyMath\obj\Debug\net9.0\MyMath.AssemblyInfo.cs
+C:\Users\pc\alu-csharp\csharp-tdd\2-max_int\MyMath\obj\Debug\net9.0\MyMath.csproj.CoreCompileInputs.cache
+C:\Users\pc\alu-csharp\csharp-tdd\2-max_int\MyMath\obj\Debug\net9.0\MyMath.sourcelink.json
+C:\Users\pc\alu-csharp\csharp-tdd\2-max_int\MyMath\obj\Debug\net9.0\MyMath.dll
+C:\Users\pc\alu-csharp\csharp-tdd\2-max_int\MyMath\obj\Debug\net9.0\refint\MyMath.dll
+C:\Users\pc\alu-csharp\csharp-tdd\2-max_int\MyMath\obj\Debug\net9.0\MyMath.pdb
+C:\Users\pc\alu-csharp\csharp-tdd\2-max_int\MyMath\obj\Debug\net9.0\ref\MyMath.dll

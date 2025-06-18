@@ -1,0 +1,14 @@
+E:\c-sharp\csharp-arrays_lists_dictionaries\14-rectangular_array\bin\Debug\net7.0\14-rectangular_array.exe
+E:\c-sharp\csharp-arrays_lists_dictionaries\14-rectangular_array\bin\Debug\net7.0\14-rectangular_array.deps.json
+E:\c-sharp\csharp-arrays_lists_dictionaries\14-rectangular_array\bin\Debug\net7.0\14-rectangular_array.runtimeconfig.json
+E:\c-sharp\csharp-arrays_lists_dictionaries\14-rectangular_array\bin\Debug\net7.0\14-rectangular_array.dll
+E:\c-sharp\csharp-arrays_lists_dictionaries\14-rectangular_array\bin\Debug\net7.0\14-rectangular_array.pdb
+E:\c-sharp\csharp-arrays_lists_dictionaries\14-rectangular_array\obj\Debug\net7.0\14-rectangular_array.GeneratedMSBuildEditorConfig.editorconfig
+E:\c-sharp\csharp-arrays_lists_dictionaries\14-rectangular_array\obj\Debug\net7.0\14-rectangular_array.AssemblyInfoInputs.cache
+E:\c-sharp\csharp-arrays_lists_dictionaries\14-rectangular_array\obj\Debug\net7.0\14-rectangular_array.AssemblyInfo.cs
+E:\c-sharp\csharp-arrays_lists_dictionaries\14-rectangular_array\obj\Debug\net7.0\14-rectangular_array.csproj.CoreCompileInputs.cache
+E:\c-sharp\csharp-arrays_lists_dictionaries\14-rectangular_array\obj\Debug\net7.0\14-rectangular_array.dll
+E:\c-sharp\csharp-arrays_lists_dictionaries\14-rectangular_array\obj\Debug\net7.0\refint\14-rectangular_array.dll
+E:\c-sharp\csharp-arrays_lists_dictionaries\14-rectangular_array\obj\Debug\net7.0\14-rectangular_array.pdb
+E:\c-sharp\csharp-arrays_lists_dictionaries\14-rectangular_array\obj\Debug\net7.0\14-rectangular_array.genruntimeconfig.cache
+E:\c-sharp\csharp-arrays_lists_dictionaries\14-rectangular_array\obj\Debug\net7.0\ref\14-rectangular_array.dll

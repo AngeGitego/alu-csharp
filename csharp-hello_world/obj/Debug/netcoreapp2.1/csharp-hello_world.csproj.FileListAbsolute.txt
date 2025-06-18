@@ -1,0 +1,4 @@
+C:\Users\pc\alu-csharp\csharp-hello_world\obj\Debug\netcoreapp2.1\csharp-hello_world.csprojAssemblyReference.cache
+C:\Users\pc\alu-csharp\csharp-hello_world\obj\Debug\netcoreapp2.1\csharp-hello_world.csproj.CoreCompileInputs.cache
+C:\Users\pc\alu-csharp\csharp-hello_world\obj\Debug\netcoreapp2.1\csharp-hello_world.AssemblyInfoInputs.cache
+C:\Users\pc\alu-csharp\csharp-hello_world\obj\Debug\netcoreapp2.1\csharp-hello_world.AssemblyInfo.cs

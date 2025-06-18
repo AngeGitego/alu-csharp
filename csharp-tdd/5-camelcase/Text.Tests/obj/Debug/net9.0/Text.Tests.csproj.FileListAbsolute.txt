@@ -1,0 +1,8 @@
+C:\Users\pc\alu-csharp\csharp-tdd\5-camelcase\Text.Tests\bin\Debug\net9.0\.msCoverageSourceRootsMapping_Text.Tests
+C:\Users\pc\alu-csharp\csharp-tdd\5-camelcase\Text.Tests\bin\Debug\net9.0\CoverletSourceRootsMapping_Text.Tests
+C:\Users\pc\alu-csharp\csharp-tdd\5-camelcase\Text.Tests\obj\Debug\net9.0\Text.Tests.csproj.AssemblyReference.cache
+C:\Users\pc\alu-csharp\csharp-tdd\5-camelcase\Text.Tests\obj\Debug\net9.0\Text.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\alu-csharp\csharp-tdd\5-camelcase\Text.Tests\obj\Debug\net9.0\Text.Tests.AssemblyInfoInputs.cache
+C:\Users\pc\alu-csharp\csharp-tdd\5-camelcase\Text.Tests\obj\Debug\net9.0\Text.Tests.AssemblyInfo.cs
+C:\Users\pc\alu-csharp\csharp-tdd\5-camelcase\Text.Tests\obj\Debug\net9.0\Text.Tests.csproj.CoreCompileInputs.cache
+C:\Users\pc\alu-csharp\csharp-tdd\5-camelcase\Text.Tests\obj\Debug\net9.0\Text.Tests.sourcelink.json

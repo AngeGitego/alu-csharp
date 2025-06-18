@@ -1,0 +1,14 @@
+E:\c-sharp\csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\obj\Debug\net7.0\12-print_sorted_dictionary.GeneratedMSBuildEditorConfig.editorconfig
+E:\c-sharp\csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\obj\Debug\net7.0\12-print_sorted_dictionary.AssemblyInfoInputs.cache
+E:\c-sharp\csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\obj\Debug\net7.0\12-print_sorted_dictionary.AssemblyInfo.cs
+E:\c-sharp\csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\obj\Debug\net7.0\12-print_sorted_dictionary.csproj.CoreCompileInputs.cache
+E:\c-sharp\csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\bin\Debug\net7.0\12-print_sorted_dictionary.exe
+E:\c-sharp\csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\bin\Debug\net7.0\12-print_sorted_dictionary.deps.json
+E:\c-sharp\csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\bin\Debug\net7.0\12-print_sorted_dictionary.runtimeconfig.json
+E:\c-sharp\csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\bin\Debug\net7.0\12-print_sorted_dictionary.dll
+E:\c-sharp\csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\bin\Debug\net7.0\12-print_sorted_dictionary.pdb
+E:\c-sharp\csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\obj\Debug\net7.0\12-print_sorted_dictionary.dll
+E:\c-sharp\csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\obj\Debug\net7.0\refint\12-print_sorted_dictionary.dll
+E:\c-sharp\csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\obj\Debug\net7.0\12-print_sorted_dictionary.pdb
+E:\c-sharp\csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\obj\Debug\net7.0\12-print_sorted_dictionary.genruntimeconfig.cache
+E:\c-sharp\csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\obj\Debug\net7.0\ref\12-print_sorted_dictionary.dll

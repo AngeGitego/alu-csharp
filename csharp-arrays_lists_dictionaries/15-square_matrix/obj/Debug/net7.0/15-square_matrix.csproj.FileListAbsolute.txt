@@ -1,0 +1,14 @@
+E:\c-sharp\csharp-arrays_lists_dictionaries\15-square_matrix\obj\Debug\net7.0\15-square_matrix.GeneratedMSBuildEditorConfig.editorconfig
+E:\c-sharp\csharp-arrays_lists_dictionaries\15-square_matrix\obj\Debug\net7.0\15-square_matrix.AssemblyInfoInputs.cache
+E:\c-sharp\csharp-arrays_lists_dictionaries\15-square_matrix\obj\Debug\net7.0\15-square_matrix.AssemblyInfo.cs
+E:\c-sharp\csharp-arrays_lists_dictionaries\15-square_matrix\obj\Debug\net7.0\15-square_matrix.csproj.CoreCompileInputs.cache
+E:\c-sharp\csharp-arrays_lists_dictionaries\15-square_matrix\bin\Debug\net7.0\15-square_matrix.exe
+E:\c-sharp\csharp-arrays_lists_dictionaries\15-square_matrix\bin\Debug\net7.0\15-square_matrix.deps.json
+E:\c-sharp\csharp-arrays_lists_dictionaries\15-square_matrix\bin\Debug\net7.0\15-square_matrix.runtimeconfig.json
+E:\c-sharp\csharp-arrays_lists_dictionaries\15-square_matrix\bin\Debug\net7.0\15-square_matrix.dll
+E:\c-sharp\csharp-arrays_lists_dictionaries\15-square_matrix\bin\Debug\net7.0\15-square_matrix.pdb
+E:\c-sharp\csharp-arrays_lists_dictionaries\15-square_matrix\obj\Debug\net7.0\15-square_matrix.dll
+E:\c-sharp\csharp-arrays_lists_dictionaries\15-square_matrix\obj\Debug\net7.0\refint\15-square_matrix.dll
+E:\c-sharp\csharp-arrays_lists_dictionaries\15-square_matrix\obj\Debug\net7.0\15-square_matrix.pdb
+E:\c-sharp\csharp-arrays_lists_dictionaries\15-square_matrix\obj\Debug\net7.0\15-square_matrix.genruntimeconfig.cache
+E:\c-sharp\csharp-arrays_lists_dictionaries\15-square_matrix\obj\Debug\net7.0\ref\15-square_matrix.dll

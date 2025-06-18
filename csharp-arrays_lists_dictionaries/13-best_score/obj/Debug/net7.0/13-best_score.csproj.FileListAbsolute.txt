@@ -1,0 +1,14 @@
+E:\c-sharp\csharp-arrays_lists_dictionaries\13-best_score\obj\Debug\net7.0\13-best_score.GeneratedMSBuildEditorConfig.editorconfig
+E:\c-sharp\csharp-arrays_lists_dictionaries\13-best_score\obj\Debug\net7.0\13-best_score.AssemblyInfoInputs.cache
+E:\c-sharp\csharp-arrays_lists_dictionaries\13-best_score\obj\Debug\net7.0\13-best_score.AssemblyInfo.cs
+E:\c-sharp\csharp-arrays_lists_dictionaries\13-best_score\obj\Debug\net7.0\13-best_score.csproj.CoreCompileInputs.cache
+E:\c-sharp\csharp-arrays_lists_dictionaries\13-best_score\bin\Debug\net7.0\13-best_score.exe
+E:\c-sharp\csharp-arrays_lists_dictionaries\13-best_score\bin\Debug\net7.0\13-best_score.deps.json
+E:\c-sharp\csharp-arrays_lists_dictionaries\13-best_score\bin\Debug\net7.0\13-best_score.runtimeconfig.json
+E:\c-sharp\csharp-arrays_lists_dictionaries\13-best_score\bin\Debug\net7.0\13-best_score.dll
+E:\c-sharp\csharp-arrays_lists_dictionaries\13-best_score\bin\Debug\net7.0\13-best_score.pdb
+E:\c-sharp\csharp-arrays_lists_dictionaries\13-best_score\obj\Debug\net7.0\13-best_score.dll
+E:\c-sharp\csharp-arrays_lists_dictionaries\13-best_score\obj\Debug\net7.0\refint\13-best_score.dll
+E:\c-sharp\csharp-arrays_lists_dictionaries\13-best_score\obj\Debug\net7.0\13-best_score.pdb
+E:\c-sharp\csharp-arrays_lists_dictionaries\13-best_score\obj\Debug\net7.0\13-best_score.genruntimeconfig.cache
+E:\c-sharp\csharp-arrays_lists_dictionaries\13-best_score\obj\Debug\net7.0\ref\13-best_score.dll

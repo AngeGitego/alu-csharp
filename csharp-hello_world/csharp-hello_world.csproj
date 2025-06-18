@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+   <TargetFrameworks>netcoreapp2.1;net7.0</TargetFrameworks>
+    <RootNamespace>csharp_hello_world</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>Disable</Nullable>
+  </PropertyGroup>
+
+</Project>
